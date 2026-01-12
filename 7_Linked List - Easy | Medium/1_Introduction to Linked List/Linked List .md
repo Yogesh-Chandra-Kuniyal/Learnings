@@ -29,5 +29,67 @@ Use case:
 
 
 
-//2-4 : Insertion and Deletion
-//5 : Middle Of The Linked List : Approach -> Slow and Fast Pointer
+//2-4 : Lt_707_Insertion and Deletion
+//5 : Lt_876_Middle Of The Linked List : Approach -> Slow and Fast Pointer
+// 6 : Lt_206_Reverse a linked list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Time Complexity:
+// Space Complexity:
+
+
+// Representation of a new Node
+function ListNode(val, next = null) {
+    this.val = val;
+    this.next = next;
+}
+
+function arrayToLinkedList(arr) {
+    if (arr.length === 0) return null;
+
+    let head = new ListNode(arr[0]);
+    let curr = head;
+
+    for (let i = 1; i < arr.length; i++) {
+        curr.next = new ListNode(arr[i]);
+        curr = curr.next;
+    }
+    return head;
+}
+
+
+function linkedListToArray(head) {
+    let res = [];
+    while (head) {
+        res.push(head.val);
+        head = head.next;
+    }
+    return res;
+}
+
+
+-----------------Code----------------
+
+
+let arr = [1, 2, 3, 4, 5, 6];
+
+let head = arrayToLinkedList(arr);
+
+console.log(linkedListToArray(middleNode(head)));
