@@ -29,9 +29,12 @@ Use case:
 
 
 
-//2-4 : Lt_707_Insertion and Deletion
-//5 : Lt_876_Middle Of The Linked List : Approach -> Slow and Fast Pointer
+// 2-4 : Lt_707_Insertion and Deletion
+// 5 : Lt_876_Middle Of The Linked List : Approach -> Slow and Fast Pointer
 // 6 : Lt_206_Reverse a linked list
+// 7 : Lt_141_Linked List Cycle -> Hash Table
+// 8 : Lt_141_Linked List Cycle -> FLoyd's Algo : Approach -> Slow and Fast Pointer
+
 
 
 
