@@ -24,3 +24,10 @@ Use case:
 -> Insertion and Deletion is easy
 -> Avoid resizing overhead or unknown size upfront
 -> Do lots of teversal/manipulation
+
+
+
+
+
+//2-4 : Insertion and Deletion
+//5 : Middle Of The Linked List : Approach -> Slow and Fast Pointer
