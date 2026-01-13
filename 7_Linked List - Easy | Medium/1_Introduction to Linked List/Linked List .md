@@ -37,6 +37,7 @@ Use case:
 // 9 : Lt_234_Palindrome Linked List -> Approach -> Reversing and middle element
 // 10 : Lt_160_Intersection Of Two Linked List -> Approach -> using hash map
 // 11 : Lt_203_Remove Linked List Elements -> Approach -> Sentinel Node (# Marvels always keeps an eye)
+// 12 : Lt_19_Remove Nth Node from End of List - Two Pass -> Sentinel Node
 
 
 
