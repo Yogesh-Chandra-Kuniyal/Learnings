@@ -34,7 +34,8 @@ Use case:
 // 6 : Lt_206_Reverse a linked list
 // 7 : Lt_141_Linked List Cycle -> Hash Table
 // 8 : Lt_141_Linked List Cycle -> FLoyd's Algo : Approach -> Slow and Fast Pointer
-// 9 : Lt_234_Palindrome Linked List
+// 9 : Lt_234_Palindrome Linked List -> Approach -> Reversing and middle element
+// 10 : Lt_160_Intersection Of Two Linked List -> Approach -> using hash map
 
 
 
