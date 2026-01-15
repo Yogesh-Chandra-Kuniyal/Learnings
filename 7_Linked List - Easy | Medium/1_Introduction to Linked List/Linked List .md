@@ -41,9 +41,10 @@ Use case:
 // 13 : Lt_19_Remove Nth Node from End of List - One Pass -> Approach -> Sentinel Node and Logic ->First pointer will start once Second pointer reaches n node far from First pointer
 // 14 : Lt_83_Remove Duplicates from Sorted List -> Approach -> curr.next = curr.next.next;
 // 15 : Lt_328_Odd Even Linked List -> odd.next = odd.next.next and even.next = even.next.next
-// 16 : Lt_2_Add Two Numbers -> Approach Dummy Node and new node with carry and sum and a copy of first node
+// 16 : Lt_2_Add Two Numbers -> Approach -> Dummy Node and new node with carry and sum and a copy of first node
 // 17 : Lt_21_Merge Two Sorted Lists -> Dummy Node -> Zig Zag with two Linked List
-// 18 : Lt_61_Rotate List ->
+// 18 : Lt_61_Rotate List -> Approach -> Two pointers(Slow and Fast Pointers) and Modulus
+// 19 : Lt_24_Swap Nodes in Pairs (Iterative Approach) -> Swap Nodes in Pairs | Linked List | Dummy Node | Three Pointer (prev/ curr / next)
 
 
 
