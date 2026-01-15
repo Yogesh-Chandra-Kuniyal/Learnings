@@ -44,8 +44,8 @@ Use case:
 // 16 : Lt_2_Add Two Numbers -> Approach -> Dummy Node and new node with carry and sum and a copy of first node
 // 17 : Lt_21_Merge Two Sorted Lists -> Dummy Node -> Zig Zag with two Linked List
 // 18 : Lt_61_Rotate List -> Approach -> Two pointers(Slow and Fast Pointers) and Modulus
-// 19 : Lt_24_Swap Nodes in Pairs (Iterative Approach) -> Swap Nodes in Pairs | Linked List | Dummy Node | Three Pointer (prev/ curr / next)
-
+// 19 : Lt_24_Swap Nodes in Pairs (Iterative Approach) -> Dummy Node | Three Pointer (prev/ curr / next)
+// 19 : Lt_24_Swap Nodes in Pairs (Recursive Approach)
 
 
 
