@@ -1,7 +1,7 @@
 // Leetcode 2942 : Find Words Containing Charcter
 
 // Time Complexity: O(total characters) → optimal
-// Space Complexity: O(result size) → minimal
+// Space Complexity: O(1)
 
 
 

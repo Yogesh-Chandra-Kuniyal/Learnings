@@ -7,3 +7,4 @@ Folders
     -> Bonus : trim removes all the extra spaces from start and end && split will split by space like s.split(" " ) But not for Interview.
 
 // 3 : Lt_2942_Find Words Containing Character
+// 4 : Lt_771_Jewels and Stones -> Hashing
