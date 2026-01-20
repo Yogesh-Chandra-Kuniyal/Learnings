@@ -11,7 +11,8 @@ Folders
 // 5 : Easy : Lt_3541_Find Most Frequent Vowel and Consonant -> Hash Map
 // 6 : Easy : Lt_1221_Split a String in Balanced Strings
 // 7 : Easy : Lt_541_Reverse String II 
-// 8 : Easy : Lt_125_Valid Palindrome -> Regex 
+// 9 : Easy : Lt_125_Valid Palindrome -> Regex 
         <!-- function isAlphabet(ch) {
             return /^[A-Za-z]$/.test(ch);
         } -->
+// 10 : Easy : Lt_ 
