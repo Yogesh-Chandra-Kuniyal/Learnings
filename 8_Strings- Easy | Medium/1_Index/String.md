@@ -18,3 +18,4 @@ Folders
         } -->
 // 10 : Easy : Lt_1903_Largest Odd Number in a String
 // 11 : Easy : Lt_14_Longest Common Prefix
+// 12 : Easy : Lt_242_Valid Anagram
